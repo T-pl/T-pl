@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tiago | @T-pl
-- 👀 Estou interessado em aprender novas tecnologias.
+- 👀 Interessado em aprender novas tecnologias.
 - 🌱 Atualmente estou aprendendo HTML, CSS e JS.
 
 
