@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago | @T-pl
 - 👀 Interessado em aprender novas tecnologias.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JS.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS e frameworks como Angular e ReactJS.
 
 
 <!---
