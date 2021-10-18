@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Tiago | @T-pl
-- 👀 Interessado em aprender novas tecnologias.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e framework Angular.
+- Olá, aqui é o Tiago Ferreira :) | @T-pl
+- Estou interessado em aprender novas tecnologias.
+- Sou estagiário em desenvolvimento front-end na @tytotech.
+- Atualmente estou aprendendo JS e framework Angular.
 
 
 <!---
