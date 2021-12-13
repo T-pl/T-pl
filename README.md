@@ -1,6 +1,6 @@
-- Olá, aqui é o Tiago Ferreira :) | @T-pl
-- Estou interessado em aprender novas tecnologias.
-- Sou estagiário em desenvolvimento front-end na @tytotech.
+- Estudante de Desenvolvimento Web na Alura Cursos Online de Tecnologia;
+- Estou interessado em aprender novas tecnologias;
+- Sou estagiário em desenvolvimento front-end na @tytotech;
 - Atualmente estou aprendendo JS e framework Angular.
 
 
