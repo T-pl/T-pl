@@ -1,7 +1,6 @@
 - Estudante de Desenvolvimento Web na Alura Cursos Online de Tecnologia;
 - Estou interessado em aprender novas tecnologias;
-- Sou estagiário em desenvolvimento front-end na @tytotech;
-- Atualmente estou aprendendo JS e framework Angular.
+- Atualmente estou aprendendo JS, framework Angular, Biblioteca ReactJS, MySQL e NodeJS.
 
 
 <!---
