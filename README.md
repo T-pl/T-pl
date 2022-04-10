@@ -1,6 +1,7 @@
-- Estudante de Desenvolvimento Web na Alura Cursos Online de Tecnologia;
+- Fui estudante de Desenvolvimento Web na Alura Cursos Online de Tecnologia;
+- Atualmente estou fazendo o Bootcamp Catalisa-Lab Viptech;
 - Estou interessado em aprender novas tecnologias;
-- Atualmente estou aprendendo JS, framework Angular, Biblioteca ReactJS, MySQL e NodeJS.
+- Trabalho atualmente com HTML5, CSS3, JS, framework Angular, Biblioteca ReactJS, MySQL e NodeJS.
 
 
 <!---
