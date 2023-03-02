@@ -1,4 +1,4 @@
-- Estudante de TEcnologia em Desenvolvimento de Análise e Desenvolvimento de Sistemas;
+- Estudante de Tecnologia em Desenvolvimento de Análise e Desenvolvimento de Sistemas;
 - Atuo como estagiário de Desenvolvimento Web;
 - Trabalho atualmente com as stacks HTML5, CSS3, JS, ReactJS, MySQL e NodeJS.
 
