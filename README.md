@@ -1,6 +1,5 @@
-- Fui estudante de Desenvolvimento Web na Alura Cursos Online de Tecnologia;
-- Fui estudante do Bootcamp Catalisa-Lab Viptech;
-- Em busca de vagas com dev. Jr.;
+- Estudante de TEcnologia em Desenvolvimento de Análise e Desenvolvimento de Sistemas;
+- Atuo como estagiário de Desenvolvimento Web;
 - Trabalho atualmente com as stacks HTML5, CSS3, JS, ReactJS, MySQL e NodeJS.
 
 
