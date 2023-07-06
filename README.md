@@ -1,6 +1,6 @@
 - Estudante de Tecnologia em Desenvolvimento de Análise e Desenvolvimento de Sistemas;
 - Atuo como estagiário de Desenvolvimento Web;
-- Trabalho atualmente com as stacks JS, ReactJS, MySQL e NodeJS.
+- Trabalho atualmente com as stacks JS, ReactJS, MySQL e PHP.
 
 
 <!---
