@@ -1,7 +1,6 @@
-- Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas;
-- Atuo como Desenvolvedor Web;
-- Trabalho atualmente com as stacks ReactJS,TS, PHP, MySQL e NodeJS.
-
+- Student of Technology in Systems Analysis and Development;
+- I work as a Web Developer;
+- I currently work with the ReactJS, TS, PHP, MySQL and NodeJS stacks.
 
 <!---
 T-pl/T-pl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
