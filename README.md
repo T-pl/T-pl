@@ -1,6 +1,6 @@
 - Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas;
-- Atuo como Desenvolvedor Web Trainee;
-- Trabalho atualmente com as stacks JS, TS, MySQL e NodeJS.
+- Atuo como Desenvolvedor Web;
+- Trabalho atualmente com as stacks ReactJS,TS, PHP, MySQL e NodeJS.
 
 
 <!---
